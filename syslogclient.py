@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # EXAMPLE: 
-# python syslogtest.py --address 192.168.8.123 --port 514 --level CRITICAL --message '<29>1 2018-06-2>1115' && date
+# python syslogclient.py --address 192.168.8.123 --port 514 --level CRITICAL --message '<29>1 2018-06-2>1115' && date
 
 import socket
 import argparse
