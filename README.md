@@ -1,2 +1,3 @@
-# Security
-Security configs
+# Infosec stuff
+
+- Simple syslog client
